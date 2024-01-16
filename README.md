@@ -122,7 +122,6 @@ This part focuses on predicting house prices using Random Forest Regressor algor
     </a>
 </div> 
 
-Feel free to modify the code to suit your specific dataset and requirements.
 
 ## Neural Network
 
