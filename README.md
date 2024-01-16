@@ -88,6 +88,8 @@ This project focuses on comparing different machine learning models for predicti
   1. Import packet
   2. Input the data
   3. Create model and setting hyperparameters
+  4. Training
+  5. Visialize training result
 
 <div align="center">
     <a href="./">
