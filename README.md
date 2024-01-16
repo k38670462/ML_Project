@@ -76,6 +76,33 @@ This project focuses on comparing different machine learning models for predicti
 
 ## Random forest
 
+### Overview
+This part focuses on predicting house prices using Random Forest Regressor algorithm. The dataset used for training and testing contains information about various features related to houses.
+
+### Running the Code
+- Make sure to install all required **libraries**.
+- Adjust **file paths** for the training and testing datasets according to your file paths.
+- Run the script to train the Random Forest Regressor and then visualize the results.
+
+### Project Structure
+1. **Data Loading and Preprocessing:** Data preprocessing includes converting data types, handling missing values, and slicing features and labels for training.
+2. **Random Forest Regressor Model:** The Random Forest Regressor is employed for predicting house prices. The model is configured with default parameters and later fine-tuned using a grid search to optimize its performance.
+3. **Hyperparameter Tuning:** By using grid search cross validation, the goal is to find the best combination of hyperparameters which maximizes the R2 score.
+4. **Results Visualization:** This part includes visualizations to demonstrate the impact of different hyperparameters on the R2 score and training times. It also displays feature importances to understand which features contribute most to the predictions.
+
+### Code Structure
+- The DataPreprocessing function handles loading, converting data types, and imputing missing values.
+- The RandomForest function initializes and fits the Random Forest Regressor.
+- The AutoTuningGrid function performs hyperparameter tuning using grid search and cross-validation.
+- Other functions `ShowCVResults`, `ShowR2`, ShowFeatureImportances generate visualizations to understand the model's performance and feature importance.
+
+### Results
+- The implementation of random forest provides R2 scores for training and testing datasets, illustrating the model's accuracy.
+- Hyperparameter tuning results are displayed as well, showing the impact of different parameters on R2 scores and training times.
+- Feature importances are visualized to highlight the most influential features in predicting house prices.
+
+Feel free to modify the code to suit your specific dataset and requirements.
+
 ## NN
 
 ###  Installation
