@@ -4,7 +4,7 @@ This project focuses on comparing different machine learning models for predicti
 
 ## Data preprocessing
 
-###  Libraries
+### Major Import packets
   - pandas
   - requests
   - numpy
@@ -12,7 +12,7 @@ This project focuses on comparing different machine learning models for predicti
   - seaborn
   - sklearn
 
-### Introduction
+### Steps
 - Data Collection
   - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
   - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
@@ -50,7 +50,7 @@ This project focuses on comparing different machine learning models for predicti
   conda install conda-forge::xgboost
   ```
   
-  ###  Major Import packets
+###  Major Import packets
   - xgboost
   - numpy
   - pandas
