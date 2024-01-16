@@ -77,10 +77,10 @@ This project focuses on comparing different machine learning models for predicti
     params = {'learning_rate': 0.1,  'max_depth': 8, 'min_child_weight': 1, 'seed': 0,
                    'subsample': 0.6, 'colsample_bytree': 0.9, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 16}
     
-  5. Training
+  5. Training by cross-validation
   6. Visialize training result and pick the best param (use checkpointing and pick max) by the order mentioned above manually (i.e. go to step3) for Hyperparameter Tuning 
-  7. Retrain and testing
-  8. Visialize retrain and testing
+  7. Retraining and testing
+  8. Visialize retraining and testing
 
 ### Final Result
   <div align="center">
