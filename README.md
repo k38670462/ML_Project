@@ -52,11 +52,13 @@ This project focuses on comparing different machine learning models for predicti
   1. Import packet
   2. Input data and init
   3. Params setting
-    ```
+     
+    
     #starting param
     params = {'learning_rate': 0.1,  'max_depth': 5, 'min_child_weight': 1, 'seed': 0,
                     'subsample': 0.8, 'colsample_bytree': 0.8, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 1}
-    ```
+    
+    
   5. Training
   6. Visialize training result and pick new param manually(i.e. go to step3) for hyper param training
   7. Retrain and testing
