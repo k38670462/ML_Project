@@ -89,5 +89,8 @@ This project focuses on comparing different machine learning models for predicti
     </a>
 </div>
 -
-
-<img width="344" alt="predction" src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a">
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a" width="80%"/>
+    </a>
+</div>
