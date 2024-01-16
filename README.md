@@ -116,9 +116,11 @@ This part focuses on predicting house prices using Random Forest Regressor algor
 - Hyperparameter tuning results are displayed as well, showing the impact of different parameters on R2 scores and training times.
 - Feature importances are visualized to highlight the most influential features in predicting house prices.
 
-  
-![r2_score](https://github.com/k38670462/ML_Project/assets/41421967/eacd7a82-3f26-4cde-8897-693b6cdf1671)
-
+ <div align="center">
+    <a href="./">
+        <img src="[https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e](https://github.com/k38670462/ML_Project/assets/41421967/eacd7a82-3f26-4cde-8897-693b6cdf1671)" width="80%"/>
+    </a>
+</div> 
 
 Feel free to modify the code to suit your specific dataset and requirements.
 
@@ -144,7 +146,8 @@ Feel free to modify the code to suit your specific dataset and requirements.
         <img src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e" width="80%"/>
     </a>
 </div>
--
+
+
 <div align="center">
     <a href="./">
         <img src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a" width="80%"/>
