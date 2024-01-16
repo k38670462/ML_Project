@@ -14,10 +14,10 @@ This project focuses on comparing different machine learning models for predicti
 
 ### Introduction
   1. Data Collection
-    - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
-    - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
+  - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
+  - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
   2. Handling missing values
-    - If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
+- If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
   3. Label Encoding
     - Convert the information about 'elevator' and 'janitor' (whether they are present or not) into numerical values using the label encoding method.
   4. One Hot Encoding
