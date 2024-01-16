@@ -50,7 +50,7 @@ This project focuses on comparing different machine learning models for predicti
   conda install conda-forge::xgboost
   ```
   
-  ###  Installation
+  ###  Major Import packets
   - xgboost
   - numpy
   - pandas
