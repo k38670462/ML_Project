@@ -14,26 +14,33 @@ This project focuses on comparing different machine learning models for predicti
 
 ### Introduction
 - Data Collection
-: Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
+  - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
   - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
     
 - Handling missing values
-: If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
+  - If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
     
 - Label Encoding
-: Convert the information about 'elevator' and 'janitor' (whether they are present or not) into numerical values using the label encoding method.
+  - Convert the information about 'elevator' and 'janitor' (whether they are present or not) into numerical values using the label encoding method.
     
 - One Hot Encoding
-: After simplifying complex information such as 'property' and 'floor' through some basic processing, transform them into numerical values using one-hot     encoding.
+  - After simplifying complex information such as 'property' and 'floor' through some basic processing, transform them into numerical values using one-hot     encoding.
 
 - Sub-features Separation
-: Split the 'layout' information into separate columns for bedroom, living room, and bathroom.
+  - Split the 'layout' information into separate columns for bedroom, living room, and bathroom.
     
 - Remove outliers
-: We improved the dataset quality by identifying and eliminating outliers, as they can distort results and impact the model's performance, ensuring more accurate and reliable predictions.
+  - We improved the dataset quality by identifying and eliminating outliers, as they can distort results and impact the model's performance, ensuring more accurate and reliable predictions.
     
 - Normalization
-: We performed min-max normalization on the data to standardize all numeric features to a common scale, preserving differences in value ranges. This normalization is crucial for models sensitive to data scale, significantly impacting performance."
+  - We performed min-max normalization on the data to standardize all numeric features to a common scale, preserving differences in value ranges. This normalization is crucial for models sensitive to data scale, significantly impacting performance."
+ 
+### Results
+  <div align="center">
+      <a href="./">
+          <img src="./figure/yolov7_city.jpg](https://github.com/k38670462/ML_Project/assets/92087014/c670918a-fea2-44fd-b695-642e843930cd" width="80%"/>
+      </a>
+  </div>
 
   
 ## XGBoost
