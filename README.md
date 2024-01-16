@@ -66,7 +66,7 @@ This project focuses on comparing different machine learning models for predicti
     params = {'learning_rate': 0.1,  'max_depth': 5, 'min_child_weight': 1, 'seed': 0,
                     'subsample': 0.8, 'colsample_bytree': 0.8, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 1}
     
-    #pick pram by by following order
+    #pick params by by following order
     #minchildweight[i for i in range(10)] and max_depth[i for i in range(10)]
     #gamma[0,inf]
     #subsample(0.5,1] and colsample_bytree(0,1]
