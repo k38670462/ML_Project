@@ -26,7 +26,24 @@ This project focuses on comparing different machine learning models for predicti
 ## XGBoost
   use conda to install xgboost please refer https://anaconda.org/conda-forge/xgboost
   
-  in xgb/XGB.ipynb has indicated code excution and some visualize exsample 
+  ```
+  conda install conda-forge::xgboost
+  ```
+  
+  ###  Installation
+  - xgboost
+  - numpy
+  - pandas
+  - matplotlib
+
+### Steps
+  1. Import packet
+  2. Input data and init
+  3. Params setting
+  4. Training
+  5. Visialize training result and pick new param manually(i.e. go to step3) for hyper param training 
+  6. Retrain and testing
+  7. Visialize retrain and testing
 ## Random forest
 ## NN
 
