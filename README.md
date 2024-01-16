@@ -59,7 +59,7 @@ This project focuses on comparing different machine learning models for predicti
 ### Steps
   1. Import packet
   2. Input data and init
-  3. Params setting
+  3. Parameter setting
      
     
     #starting param
@@ -78,7 +78,7 @@ This project focuses on comparing different machine learning models for predicti
                    'subsample': 0.6, 'colsample_bytree': 0.9, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 16}
     
   5. Training
-  6. Visialize training result and pick the best param one by one manually by using checkpointing (i.e. go to step3) for hyper param training 
+  6. Visialize training result and pick the best param one by one manually by using checkpointing (i.e. go to step3) for Hyperparameter Tuning 
   7. Retrain and testing
   8. Visialize retrain and testing
 
