@@ -66,7 +66,7 @@ This project focuses on comparing different machine learning models for predicti
     params = {'learning_rate': 0.1,  'max_depth': 5, 'min_child_weight': 1, 'seed': 0,
                     'subsample': 0.8, 'colsample_bytree': 0.8, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 1}
     
-    #test and pick params by by following order
+    #test and pick params by by following order you can put into gridsearch_params
     #minchildweight and max_depth
     #gamma
     #subsample and colsample_bytree
