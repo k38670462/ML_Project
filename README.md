@@ -6,8 +6,6 @@ This project focuses on comparing different machine learning models for predicti
 
 Make sure you have Python installed. Clone the repository and navigate to the project folder.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies.
-
 ### Data preprocessing
 
 ### XGBoost
