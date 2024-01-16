@@ -15,7 +15,7 @@ This project focuses on comparing different machine learning models for predicti
   
 ## XGBoost
   use conda to install xgboost please refer https://anaconda.org/conda-forge/xgboost
-  in xgb/XGB.ipynb has indicated code excution and some visualize exsample 
   
+  in xgb/XGB.ipynb has indicated code excution and some visualize exsample 
 ## Random forest
 ## NN
