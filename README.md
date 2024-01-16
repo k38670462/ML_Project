@@ -12,16 +12,23 @@ This project focuses on comparing different machine learning models for predicti
   - seaborn
   - sklearn
 
-### Steps
+### Introduction
   1. Data Collection
-     - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
-     - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
+    - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
+    - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
   2. Handling missing values
+    - If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
   3. Label Encoding
+    - Convert the information about 'elevator' and 'janitor' (whether they are present or not) into numerical values using the label encoding method.
   4. One Hot Encoding
+    - After simplifying complex information such as 'property' and 'floor' through some basic processing, transform them into numerical values using one-hot     encoding.
   5. Sub-features Separation
+    - Split the 'layout' information into separate columns for bedroom, living room, and bathroom.
   6. remove outliers
+    - We improved the dataset quality by identifying and eliminating outliers, as they can distort results and impact the model's performance, ensuring more accurate and reliable predictions.
   7. Normalization
+    - We performed min-max normalization on the data to standardize all numeric features to a common scale, preserving differences in value ranges. This normalization is crucial for models sensitive to data scale, significantly impacting performance."
+
   
 ## XGBoost
   use conda to install xgboost please refer https://anaconda.org/conda-forge/xgboost
