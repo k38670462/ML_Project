@@ -72,6 +72,11 @@ This project focuses on comparing different machine learning models for predicti
     #subsample(0.5,1] and colsample_bytree(0,1]
     #regalpha[0,inf] and reglambda[0,inf]
     #learning_rate (0,inf]
+
+    #final param pick
+    params = {'learning_rate': 0.1,  'max_depth': 8, 'min_child_weight': 1, 'seed': 0,
+                   'subsample': 0.6, 'colsample_bytree': 0.9, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 16}
+    
   5. Training
   6. Visialize training result and pick the best param one by one manually by using checkpointing (i.e. go to step3) for hyper param training 
   7. Retrain and testing
