@@ -4,7 +4,7 @@ This project focuses on comparing different machine learning models for predicti
 
 ## Data preprocessing
 
-###  Installation
+###  Libraries
   - pandas
   - requests
   - numpy
@@ -14,6 +14,8 @@ This project focuses on comparing different machine learning models for predicti
 
 ### Steps
   1. Data Collection
+     - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
+     - Retrieve the housing information API of the mentioned webpage using F12, and use the 'requests' library to fetch the content.
   2. Handling missing values
   3. Label Encoding
   4. One Hot Encoding
