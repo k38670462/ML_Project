@@ -52,6 +52,7 @@ This project focuses on comparing different machine learning models for predicti
   6. Retrain and testing
   7. Visialize retrain and testing
 
+###Final Result
 <img width="350" alt="result" src="https://github.com/k38670462/ML_Project/blob/main/xgb/final_result.png">
 
 ## Random forest
