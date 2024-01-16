@@ -141,13 +141,14 @@ Feel free to modify the code to suit your specific dataset and requirements.
 
 ### Results
 
+##### Prediction
 <div align="center">
     <a href="./">
         <img src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e" width="80%"/>
     </a>
 </div>
 
-
+##### Training
 <div align="center">
     <a href="./">
         <img src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a" width="80%"/>
