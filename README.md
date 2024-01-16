@@ -118,7 +118,7 @@ This part focuses on predicting house prices using Random Forest Regressor algor
 
  <div align="center">
     <a href="./">
-        <img src="[https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e](https://github.com/k38670462/ML_Project/assets/41421967/eacd7a82-3f26-4cde-8897-693b6cdf1671)" width="80%"/>
+        <img src="https://github.com/k38670462/ML_Project/blob/main/random_forest/r2_score.png" width="80%"/>
     </a>
 </div> 
 
