@@ -80,7 +80,7 @@ This project focuses on comparing different machine learning models for predicti
   5. Training by cross-validation
   6. Visialize training result and pick the best param (use checkpointing and pick max) by the order mentioned above manually (i.e. go to step3) for Hyperparameter Tuning 
   7. Retraining and testing
-  8. Visialize retraining and testing
+  8. Visialize retraining and testing (pick the max result by using checkpointing)
 
 ### Final Result
   <div align="center">
