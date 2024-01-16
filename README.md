@@ -82,9 +82,12 @@ This project focuses on comparing different machine learning models for predicti
   1. Import packet
   2. Input the data
   3. Create model and setting hyperparameters
-  4. 
-<img width="350" alt="training" src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e">
-  
+
+<div align="center">
+    <a href="./">
+        <img src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e" width="80%"/>
+    </a>
+</div>
 -
 
 <img width="344" alt="predction" src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a">
