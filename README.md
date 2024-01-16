@@ -67,11 +67,11 @@ This project focuses on comparing different machine learning models for predicti
                     'subsample': 0.8, 'colsample_bytree': 0.8, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 1}
     
     #test and pick params by by following order
-    #minchildweight[i for i in range(10)] and max_depth[i for i in range(10)]
-    #gamma[0,inf]
-    #subsample(0.5,1] and colsample_bytree(0,1]
-    #regalpha[0,inf] and reglambda[0,inf]
-    #learning_rate (0,inf]
+    #minchildweight and max_depth
+    #gamma
+    #subsample and colsample_bytree
+    #regalpha and reglambda
+    #learning_rate 
 
     #final param pick
     params = {'learning_rate': 0.1,  'max_depth': 8, 'min_child_weight': 1, 'seed': 0,
