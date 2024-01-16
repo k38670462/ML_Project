@@ -125,7 +125,7 @@ This part focuses on predicting house prices using Random Forest Regressor algor
 
 ## Neural Network
 
-###  Installation
+###  Major Import packets
   - tensorflow 
   - numpy
   - pandas
