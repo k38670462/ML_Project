@@ -11,7 +11,7 @@ This project focuses on comparing different machine learning models for predicti
   - cn2an
   - seaborn
   - sklearn
-  - 
+
 ### Steps
   1. Data Collection
   2. Handling missing values
