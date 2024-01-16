@@ -58,9 +58,14 @@ This project focuses on comparing different machine learning models for predicti
     params = {'learning_rate': 0.1,  'max_depth': 5, 'min_child_weight': 1, 'seed': 0,
                     'subsample': 0.8, 'colsample_bytree': 0.8, 'gamma': 0, 'reg_alpha': 0, 'reg_lambda': 1}
     
-    
+    #pick pram by by following order
+    #minchildweight[i for i in range(10)] and max_depth[i for i in range(10)]
+    #gamma[0,inf]
+    #subsample(0.5,1] and colsample_bytree(0,1]
+    #regalpha[0,inf] and reglambda[0,inf]
+    #learning_rate (0,inf]
   5. Training
-  6. Visialize training result and pick new param manually(i.e. go to step3) for hyper param training
+  6. Visialize training result and pick the best param one by one manually by using checkpointing (i.e. go to step3) for hyper param training 
   7. Retrain and testing
   8. Visialize retrain and testing
 
