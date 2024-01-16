@@ -130,6 +130,8 @@ Feel free to modify the code to suit your specific dataset and requirements.
   4. Training
   5. Visialize training result
 
+### Results
+
 <div align="center">
     <a href="./">
         <img src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e" width="80%"/>
