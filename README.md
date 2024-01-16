@@ -47,8 +47,15 @@ This project focuses on comparing different machine learning models for predicti
 ## Random forest
 ## NN
 
+###  Installation
+  - tensorflow 
+  - numpy
+  - pandas
+  - matplotlib
+  - sklearn
 
 <img width="350" alt="training" src="https://github.com/k38670462/ML_Project/assets/41421967/b0eb9c62-7cb7-4480-bf07-0a71cd8ecf5e">
-
+  
+-
 
 <img width="344" alt="predction" src="https://github.com/k38670462/ML_Project/assets/41421967/c0a0f323-00ac-4df9-bf96-418dc759493a">
