@@ -38,7 +38,7 @@ This project focuses on comparing different machine learning models for predicti
 ### Results
   <div align="center">
       <a href="./">
-          <img src="https://github.com/k38670462/ML_Project/assets/92087014/c670918a-fea2-44fd-b695-642e843930cd" width="50%"/>
+          <img src="https://github.com/k38670462/ML_Project/assets/92087014/c670918a-fea2-44fd-b695-642e843930cd" width="80%"/>
       </a>
   </div>
 
@@ -85,7 +85,7 @@ This project focuses on comparing different machine learning models for predicti
 ### Final Result
   <div align="center">
     <a href="./">
-        <img src="https://github.com/k38670462/ML_Project/blob/main/xgb/final_result.png" width="80%"/>
+        <img src="https://github.com/k38670462/ML_Project/blob/main/xgb/final_result.png" width="50%"/>
     </a>
   </div>
 
