@@ -124,7 +124,7 @@ This part focuses on predicting house prices using Random Forest Regressor algor
 
 Feel free to modify the code to suit your specific dataset and requirements.
 
-## NN
+## Neural Network
 
 ###  Installation
   - tensorflow 
