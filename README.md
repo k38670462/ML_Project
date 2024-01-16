@@ -18,7 +18,7 @@ This project focuses on comparing different machine learning models for predicti
   - source: [https://lvr.land.moi.gov.tw/](https://lvr.land.moi.gov.tw/)
     
 - Handling missing values
-  - If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, I have filled in the missing values with the mode of the respective column.
+  - If directly deleting rows with missing values, it would significantly reduce the dataset. Therefore, we filled in the missing values with the mode of the respective column.
     
 - Label Encoding
   - Convert the information about 'elevator' and 'janitor' (whether they are present or not) into numerical values using the label encoding method.
