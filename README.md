@@ -2,6 +2,6 @@
 # XGBoost
   use conda to install xgboost please refer https://anaconda.org/conda-forge/xgboost
   
-  and Code execution details are in the xgb/XGB.ipynb
+  in xgb/XGB.ipynb briefly indicate how code execution 
 # Random forest
 # NN
